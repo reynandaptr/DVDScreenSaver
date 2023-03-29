@@ -60,7 +60,7 @@
 
 - (void)drawRect:(NSRect)rectParam
 {
-    const float g = 32.0f/255.0f;
+    const float g = 0.0f/255.0f;
     [[NSColor colorWithRed:g green:g blue:g alpha:1.0f] setFill];
     NSRectFill(rectParam);
     NSRect rect;

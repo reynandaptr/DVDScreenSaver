@@ -10,21 +10,7 @@
 		B03010F220A9372A00A73FAD /* bouncesaverView.h in Headers */ = {isa = PBXBuildFile; fileRef = B03010F120A9372A00A73FAD /* bouncesaverView.h */; };
 		B03010F420A9372A00A73FAD /* bouncesaverView.m in Sources */ = {isa = PBXBuildFile; fileRef = B03010F320A9372A00A73FAD /* bouncesaverView.m */; };
 		B0D8289020A977FE00271B62 /* dvdlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = B0D8288F20A977FE00271B62 /* dvdlogo.png */; };
-		B0EF8CBF20A97B580090B0D8 /* dvdlogo.png in CopyFiles */ = {isa = PBXBuildFile; fileRef = B0D8288F20A977FE00271B62 /* dvdlogo.png */; };
 /* End PBXBuildFile section */
-
-/* Begin PBXCopyFilesBuildPhase section */
-		B0EF8CBD20A97B4E0090B0D8 /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 7;
-			files = (
-				B0EF8CBF20A97B580090B0D8 /* dvdlogo.png in CopyFiles */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		B03010EE20A9372A00A73FAD /* bouncesaver.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = bouncesaver.saver; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -94,7 +80,6 @@
 				B03010EA20A9372A00A73FAD /* Frameworks */,
 				B03010EB20A9372A00A73FAD /* Headers */,
 				B03010EC20A9372A00A73FAD /* Resources */,
-				B0EF8CBD20A97B4E0090B0D8 /* CopyFiles */,
 			);
 			buildRules = (
 			);
